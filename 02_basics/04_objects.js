@@ -75,5 +75,6 @@ const course = {
         courseInstructor : "hitesh"
 }
 
+// Destructuring to create  variable: instructor
 const {courseInstructor:instructor} = course
 console.log(instructor);
