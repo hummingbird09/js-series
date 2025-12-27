@@ -44,5 +44,18 @@ console.log(val1); //10
 val1 = undefined ?? 15
 console.log(val1);  //15
 
+val1 = null ?? 10?? 20
+console.log(val1); //10
+
+// Terinary operator
+
+// condition ? true : false
+
+
+const iceTeaPrice = 100;
+iceTeaPrice<=80 ? console.log("less than 80"): console.log("more than 80");
+
+
+
 
 
