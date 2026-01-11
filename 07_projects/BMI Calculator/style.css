@@ -1,0 +1,22 @@
+body {
+  background-color: pink;
+}
+
+button {
+  margin-left: 13%;
+  padding: 1%;
+  border-radius: 10%;
+}
+
+#weight-guide {
+  width: 40%;
+  margin: 2% 0 0 0;
+  border: 2px dotted white;
+  padding: 1% 1% 0 1%;
+  text-align: center;
+  background-color: rgb(255, 144, 162);
+}
+
+.container {
+  margin-left: 40%;
+}
